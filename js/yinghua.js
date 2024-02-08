@@ -1,3 +1,7 @@
+/*! Mr.Wu•API调用平台*/
+/*! Mr.Wu•API站、API,聚合数据,API数据接口,免费API数据调用*/
+/*! https://api.seky.cn */
+
 if (! (navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i))) {
 var stop, staticx;
 var img = new Image();
